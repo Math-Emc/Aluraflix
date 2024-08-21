@@ -2,3 +2,7 @@ body {
 color: gold;
 background: rebeccapurple;
 }
+
+header {
+    border: solid 2px white;
+}
