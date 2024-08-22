@@ -3,3 +3,6 @@ body {
     background: rebeccapurple;
 }
 
+header {
+    border: solid 5px white;
+}
