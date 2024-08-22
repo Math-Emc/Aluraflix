@@ -1,8 +1,10 @@
 body {
     color: gold;
     background: rebeccapurple;
+    margin: 0px;
 }
 
 header {
     border-bottom: solid 3px rgb(65, 105, 225);
+    margin: 20px;
 }
