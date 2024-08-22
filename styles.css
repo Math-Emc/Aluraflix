@@ -4,5 +4,5 @@ body {
 }
 
 header {
-    border: solid 5px white;
+    border-bottom: solid 5px rgb(65, 105, 225);
 }
