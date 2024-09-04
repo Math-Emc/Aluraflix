@@ -24,3 +24,7 @@ section {
 img {
         height: 220px;
 }
+
+.categoria-vídeos {
+    display: flex;
+}
