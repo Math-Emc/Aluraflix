@@ -45,3 +45,7 @@ img {
     opacity: 1.0;
     border: 5px solid yellow;
 }
+
+.categoria h2 {
+    color:rgb(65, 105, 225);
+}
